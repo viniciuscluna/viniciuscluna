@@ -1,7 +1,7 @@
 # Hey there! 👋 I'm Vinícius Luna
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Software+Engineer+%7C+.NET+Expert;React+%7C+Next.js+Developer;Building+amazing+experiences;Always+learning+new+things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Software+Engineer+%7C+.NET+Expert;React+%7C+Next.js+Developer;Golang+%7C+Backend+Enthusiast;Building+amazing+experiences;Always+learning+new+things!" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
@@ -20,6 +20,7 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-0078d4?style=for-the-badge&logo=.net&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ### Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
